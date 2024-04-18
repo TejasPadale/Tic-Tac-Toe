@@ -25,7 +25,7 @@
     @apply border-solid border-b-4 border-indigo-600;
   }
   .strike {
-    @apply absolute bg-orange-600;
+    @apply absolute bg-indigo-600;
   }
   .strike-row-1 {
     @apply w-full h-1 top-[16%];
